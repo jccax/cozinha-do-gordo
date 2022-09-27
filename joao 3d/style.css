@@ -1,0 +1,146 @@
+body {
+background-image: url(https://i.pinimg.com/originals/00/01/3e/00013e8b8fcc175e9d38c939b94aa1ca.jpg);
+background-size: 130%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  border-radius: 5px;
+}
+
+h2 {
+	text-align: center;
+  font-weight: bold;
+font-size: 18px;
+}
+
+h1 {
+	text-align: center;
+  color: black;
+  opacity: 2;
+
+}
+
+hr {
+	color: red; 
+}
+
+.head {
+ background-color: darkgray;
+ width: 500px;
+ margin: auto;
+ border: 3px solid red;
+ opacity: 0.8;
+ font-weight: bold;
+font-size: 18px;
+}
+
+.ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color:  white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.ingredientes {
+  padding: 10px 20px;
+  background-color: darkgray;
+  opacity: 0.9;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.preparação {
+  padding: 10px 20px;
+  background-color: darkgray;
+  opacity: 0.9;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.item {
+    width: 100%;
+}
+
+.img1{
+ width: 100%;
+ 
+ }
+
+.img2 {
+  width: 100%;
+ 
+}
+
+.img3 {
+ width: 100%;
+ 
+}
+
+.contact {
+  border: 2px solid white;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto; 
+  opacity: 0.8;
+  background-color: darkgray;
+  font-weight: bold;
+font-size: 18px;
+}
+
+#contact1 {
+  box-shadow: 10px 10px 8px #888888;
+}
+
+.pg1 {
+ border: 2px solid white;
+  width: 60%;
+  margin-left: auto;
+  opacity: 0.8;
+  margin-right: auto; 
+ background-color: darkgray;
+ text-decoration: none;
+ color: inherit;
+font-weight: bold;
+font-size: 18px;
+}
+
+#pg1 {
+  box-shadow: 10px 10px 8px brown;
+}
+
+.pézin {
+border: 2px solid white;
+  width: 60%; 
+ margin-left: auto;
+ margin-right: auto;
+ opacity: 0.8;
+ background-color: darkgray;
+ text-decoration: none;
+ color: inherit;
+ font-weight: bold;
+font-size: 18px;
+}
+
